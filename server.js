@@ -11,15 +11,15 @@ app.get('/', function (req, res) {
 
 
 app.get('/article-1',function (req,res) {
-  res.send('Article-1 is requested and will be served here.')
+  res.send('Article-1  requested and will be served here.')
 });
 
 app.get('/article-2',function (req,res) {
-  res.send('Article-2 is requested and will be served here.')
+  res.send('Article-2  requested and will be served here.')
 });
 
 app.get('/article-3',function (req,res) {
-  res.send('Article-3 is requested and will be served here.')
+  res.send('Article-3  requested and will be served here.')
 });
 
 
