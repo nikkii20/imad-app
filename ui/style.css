@@ -21,6 +21,8 @@ body {
     height: 200px;
 }
  .para{
+            max-width:800px;
+            margin:5px;
             color:#9e0f28;
             font-family:cursive;
             background:#b37979;
